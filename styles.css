@@ -1,0 +1,61 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+section {
+    padding: 50px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+/* Additional color styles */
+h1 {
+    color: rgb(255, 68, 0);
+}
+
+a {
+    color: rgb(0, 255, 136);
+}
+
+#about {
+    background-color: rgb(192, 201, 255);
+}
+
+#services {
+    background-color: lightblue;
+}
+
+#contact {
+    background-color: lightgreen;
+}
+#image-container img {
+    display: inline-block;
+    background-color: black ;
+  }
